@@ -12,4 +12,4 @@ staff_id = "MED123"
 encrypted = caesar_encrypt(staff_id, 3)
 
 print("Original:", staff_id)
-print("Encrypted:", encrypted)s
+print("Encrypted:", encrypted)
